@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    cout << "hello World!" << endl; // Write a program that prints Hello, World!
+    cout << "Hello World!" << endl; // Write a program that prints Hello, World!
     cout << "Anjan Prasad" << endl; // Print your name using cout
     // ^^^ Print two lines of text using two cout statements
     cout << 42 << endl; // Print a number (e.g. `42`) using `cout`
