@@ -7,21 +7,21 @@
 
 ## 🟢 Section 1 — Hello World & Output
 
-- [ ] Write a program that prints `Hello, World!`
-- [ ] Print your name using `cout`
-- [ ] Print two lines of text using two `cout` statements
-- [ ] Print a number (e.g. `42`) using `cout`
-- [ ] Print a decimal number (e.g. `3.14`) using `cout`
-- [ ] Print a single character (e.g. `'A'`) using `cout`
-- [ ] Print text with a tab space between two words using `\t`
-- [ ] Print text on a new line using `\n`
-- [ ] Print text on a new line using `endl`
-- [ ] Print a blank line between two sentences
-- [ ] Print the result of `5 + 3` directly inside `cout`
-- [ ] Print multiple things in one `cout` using `<<` chaining
-- [ ] Print your full name and age on separate lines
-- [ ] Print a sentence that includes a double quote character (use `\"`)
-- [ ] Print a backslash using `\\`
+- [x] Write a program that prints `Hello, World!`
+- [x] Print your name using `cout`
+- [x] Print two lines of text using two `cout` statements
+- [x] Print a number (e.g. `42`) using `cout`
+- [x] Print a decimal number (e.g. `3.14`) using `cout`
+- [x] Print a single character (e.g. `'A'`) using `cout`
+- [x] Print text with a tab space between two words using `\t`
+- [x] Print text on a new line using `\n`
+- [x] Print text on a new line using `endl`
+- [x] Print a blank line between two sentences
+- [x] Print the result of `5 + 3` directly inside `cout`
+- [x] Print multiple things in one `cout` using `<<` chaining
+- [x] Print your full name and age on separate lines
+- [x] Print a sentence that includes a double quote character (use `\"`)
+- [x] Print a backslash using `\\`
 
 ---
 
