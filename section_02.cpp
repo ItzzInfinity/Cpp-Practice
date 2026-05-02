@@ -23,6 +23,6 @@ int main(){
         // Initialize a variable using `auto` and let the compiler deduce the type
         // Declare two variables of the same type in one line (e.g. `int a = 1, b = 2;`)
         // Swap the values of two variables using a third temp variable    
-
+        
     return 0;
 }
