@@ -27,41 +27,41 @@
 
 ## 🟢 Section 2 — Variables & Data Types
 
-- [ ] Declare an `int` variable and print it
-- [ ] Declare a `float` variable and print it
-- [ ] Declare a `double` variable and print it
-- [ ] Declare a `char` variable and print it
-- [ ] Declare a `bool` variable, set it to `true`, and print it
-- [ ] Declare a `string` variable and print it
-- [ ] Declare two `int` variables and print both
-- [ ] Declare a variable, assign a value later (not at declaration), then print it
-- [ ] Declare a variable with `const` and try to understand why you can't change it
-- [ ] Print the size of `int` using `sizeof(int)`
-- [ ] Print the size of `double` using `sizeof(double)`
-- [ ] Print the size of `char` using `sizeof(char)`
-- [ ] Print the size of `bool` using `sizeof(bool)`
-- [ ] Declare an `unsigned int` and print it
-- [ ] Declare a `long` variable and print it
-- [ ] Declare a `long long` variable with a very large number and print it
-- [ ] Declare a `short` variable and print it
-- [ ] Initialize a variable using `auto` and let the compiler deduce the type
-- [ ] Declare two variables of the same type in one line (e.g. `int a = 1, b = 2;`)
-- [ ] Swap the values of two variables using a third temp variable
+- [x] Declare an `int` variable and print it
+- [x] Declare a `float` variable and print it
+- [x] Declare a `double` variable and print it
+- [x] Declare a `char` variable and print it
+- [x] Declare a `bool` variable, set it to `true`, and print it
+- [x] Declare a `string` variable and print it
+- [x] Declare two `int` variables and print both
+- [x] Declare a variable, assign a value later (not at declaration), then print it
+- [x] Declare a variable with `const` and try to understand why you can't change it
+- [x] Print the size of `int` using `sizeof(int)`
+- [x] Print the size of `double` using `sizeof(double)`
+- [x] Print the size of `char` using `sizeof(char)`
+- [x] Print the size of `bool` using `sizeof(bool)`
+- [x] Declare an `unsigned int` and print it
+- [x] Declare a `long` variable and print it
+- [x] Declare a `long long` variable with a very large number and print it
+- [x] Declare a `short` variable and print it
+- [x] Initialize a variable using `auto` and let the compiler deduce the type
+- [x] Declare two variables of the same type in one line (e.g. `int a = 1, b = 2;`)
+- [x] Swap the values of two variables using a third temp variable
 
 ---
 
 ## 🟢 Section 3 — User Input
 
-- [ ] Read an integer from the user and print it back
-- [ ] Read a float from the user and print it back
-- [ ] Read a character from the user and print it back
-- [ ] Read a string (single word) using `cin` and print it
-- [ ] Read a full line of text using `getline()` and print it
-- [ ] Read two integers from the user and print both
-- [ ] Read the user's name and greet them: `Hello, [name]!`
-- [ ] Read two numbers and print their sum
-- [ ] Read a number and print it doubled
-- [ ] Read age from user and print: `You are [age] years old.`
+- [x] Read an integer from the user and print it back
+- [x] Read a float from the user and print it back
+- [x] Read a character from the user and print it back
+- [x] Read a string (single word) using `cin` and print it
+- [x] Read a full line of text using `getline()` and print it
+- [x] Read two integers from the user and print both
+- [x] Read the user's name and greet them: `Hello, [name]!`
+- [x] Read two numbers and print their sum
+- [x] Read a number and print it doubled
+- [x] Read age from user and print: `You are [age] years old.`
 
 ---
 
