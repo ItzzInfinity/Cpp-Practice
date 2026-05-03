@@ -27,13 +27,13 @@
 
 ## 🟢 Section 2 — Variables & Data Types
 
-- [ ] Declare an `int` variable and print it
-- [ ] Declare a `float` variable and print it
-- [ ] Declare a `double` variable and print it
-- [ ] Declare a `char` variable and print it
-- [ ] Declare a `bool` variable, set it to `true`, and print it
-- [ ] Declare a `string` variable and print it
-- [ ] Declare two `int` variables and print both
+- [x] Declare an `int` variable and print it
+- [x] Declare a `float` variable and print it
+- [x] Declare a `double` variable and print it
+- [x] Declare a `char` variable and print it
+- [x] Declare a `bool` variable, set it to `true`, and print it
+- [x] Declare a `string` variable and print it
+- [x] Declare two `int` variables and print both
 - [ ] Declare a variable, assign a value later (not at declaration), then print it
 - [ ] Declare a variable with `const` and try to understand why you can't change it
 - [ ] Print the size of `int` using `sizeof(int)`
