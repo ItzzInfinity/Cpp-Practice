@@ -15,6 +15,7 @@ int main(){
     cout << c << endl;  // Declare a `char` variable and print it
     bool B = true;    // Declare a `bool` variable, set it to `true`, and print it
     cout << B << endl;  // Declare a `bool` variable, set it to `true`, and print it
+    cout << boolalpha << B << endl;  // prints: true  // Declare a `bool` variable, set it to `true`, and print it
     //^^ It returns 1 Not TRUE// turns out You can set it to T/F or 0/1
     string str = "It\'s a string";    // Declare a `string` variable and print it
     cout << str << endl;    // Declare a `string` variable and print it
