@@ -1,3 +1,11 @@
 desktop.ini
 *.exe
 .vscode
+*
+!*.cpp
+!*.h
+!*.md
+*.o
+*.obj
+!*.hpp
+temp*
